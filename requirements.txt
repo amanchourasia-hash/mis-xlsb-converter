@@ -1,0 +1,4 @@
+flask
+pyxlsb
+openpyxl
+gunicorn
